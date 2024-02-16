@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Open PRO',
+  title: '🚀星梦求职 - 帮助你找到理想的程序员工作',
   description: 'Page description',
 }
 
