@@ -6,11 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="39c45bcd-722b-47ab-948e-d1979c41abae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(default)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(default)/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(default)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(default)/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/hero.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
