@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39c45bcd-722b-47ab-948e-d1979c41abae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(default)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(default)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/banner.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/hero.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/zigzag.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/product-section.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/qimingzhang/xingmengqiuzhi",
+    "last_opened_file_path": "/Users/qimingzhang/xingmengqiuzhi/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +41,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/images" />
     </key>
@@ -61,7 +58,7 @@
       <updated>1694973788535</updated>
       <workItem from="1694973789767" duration="1332000" />
       <workItem from="1708174495474" duration="7265000" />
-      <workItem from="1708206425457" duration="498000" />
+      <workItem from="1708206425457" duration="766000" />
     </task>
     <servers />
   </component>
