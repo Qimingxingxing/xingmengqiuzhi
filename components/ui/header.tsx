@@ -10,7 +10,7 @@ export default function Header() {
                 <div className="flex items-center justify-between h-20">
                     {/* Site branding */}
                     <div className="shrink-0 mr-4">
-                        <Image className="w-20 h-20 fill-current" src={Logo} clasName="block" aria-label="Cruip" />
+                        <Image className="w-20 h-20 fill-current" src={Logo}  aria-label="Cruip" />
                     </div>
 
                     {/* Desktop navigation */}
