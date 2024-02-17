@@ -3,12 +3,14 @@ export default function Features() {
         <section>
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
                 <div className="py-12 md:py-20">
-
                     {/* Section header */}
-                    <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20" data-aos="fade-down">
-                        <h3 className="h3 mb-4">通过面试的关键在于理解面试官想要的答案</h3>
-                        <h3 className="h3 mb-4">这需要经过专业的训练</h3>
-                        <p className="text-xl text-gray-400"></p>
+                    <div className="max-w-3xl pb-12 md:pb-16" data-aos="fade-up" data-aos-delay="200">
+                        <div
+                            className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Reach
+                            goals that matter
+                        </div>
+                        <h1 className="h2 mb-4">我们的理念</h1>
+                        <p className="text-xl text-gray-400">通过面试的关键在于理解面试官想要的答案, 这需要经过专业的训练</p>
                     </div>
 
                     {/* Items */}
