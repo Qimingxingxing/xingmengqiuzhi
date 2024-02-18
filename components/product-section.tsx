@@ -19,7 +19,7 @@ export default function ProductSection() {
                             goals that matter
                         </div>
                         <h1 className="h2 mb-4">我们的产品服务</h1>
-                        <p className="text-xl text-gray-400">我们致力于提供最好的面试mock服务，来帮助你拿到理想的offer</p>
+                        <p className="text-xl text-gray-600">我们致力于提供最好的面试mock服务，来帮助你拿到理想的offer</p>
                     </div>
 
                     {/* Items */}
@@ -41,9 +41,9 @@ export default function ProductSection() {
                                         Best
                                     </div>
                                     <h3 className="h3 mb-3">算法模拟面试：Mock Coding Interview</h3>
-                                    <p className="text-xl text-gray-400 mb-4">1轮算法模拟面试（一小时、1对1）+
+                                    <p className="text-xl text-gray-600 mb-4">1轮算法模拟面试（一小时、1对1）+
                                         30分钟面试反馈</p>
-                                    <ul className="text-lg text-gray-400 -mb-2">
+                                    <ul className="text-lg text-gray-600 -mb-2">
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
                                                  viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -99,10 +99,10 @@ export default function ProductSection() {
                                         Less spend
                                     </div>
                                     <h3 className="h3 mb-3">后端系统设计模拟面试：Mock System Design Interview</h3>
-                                    <p className="text-xl text-gray-400 mb-4">
+                                    <p className="text-xl text-gray-600 mb-4">
                                         1轮系统设计模拟面试（一小时、1对1）+ 30分钟面试反馈
                                     </p>
-                                    <ul className="text-lg text-gray-400 -mb-2">
+                                    <ul className="text-lg text-gray-600 -mb-2">
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
                                                  viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -157,10 +157,10 @@ export default function ProductSection() {
                                         Good Story Matters
                                     </div>
                                     <h3 className="h3 mb-3">行为问题面试：Mock Behavior Question Interview</h3>
-                                    <p className="text-xl text-gray-400 mb-4">1轮行为问题面试（45分钟，1对1）+
+                                    <p className="text-xl text-gray-600 mb-4">1轮行为问题面试（45分钟，1对1）+
                                         15分钟面试反馈
                                         aliqua.</p>
-                                    <ul className="text-lg text-gray-400 -mb-2">
+                                    <ul className="text-lg text-gray-600 -mb-2">
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
                                                  viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -207,10 +207,10 @@ export default function ProductSection() {
                                         Dive Deep on What You Did
                                     </div>
                                     <h3 className="h3 mb-3">项目深入探讨面试：Project Deep Dive Interview</h3>
-                                    <p className="text-xl text-gray-400 mb-4">1轮项目深入面试（45分钟、1对1）+
+                                    <p className="text-xl text-gray-600 mb-4">1轮项目深入面试（45分钟、1对1）+
                                         15分钟面试反馈
                                         aliqua.</p>
-                                    <ul className="text-lg text-gray-400 -mb-2">
+                                    <ul className="text-lg text-gray-600 -mb-2">
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
                                                  viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -257,8 +257,8 @@ export default function ProductSection() {
                                         Getting Interview is a Start Point
                                     </div>
                                     <h3 className="h3 mb-3">简历修改：Resume Revision</h3>
-                                    <p className="text-xl text-gray-400 mb-4">1小时一对一简历修改服务</p>
-                                    <ul className="text-lg text-gray-400 -mb-2">
+                                    <p className="text-xl text-gray-600 mb-4">1小时一对一简历修改服务</p>
+                                    <ul className="text-lg text-gray-600 -mb-2">
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
                                                  viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
