@@ -74,7 +74,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>coderpad做题</span>
+                                            <span>使用coderpad做题</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -133,7 +133,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>excalidraw面试</span>
+                                            <span>使用excalidraw面试</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -274,6 +274,14 @@ export default function ProductSection() {
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
                                             <span>一对一，google docs实时进行修改</span>
+                                        </li>
+                                        <li className="flex items-center mb-2">
+                                            <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                                                 viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
+                                            </svg>
+                                            <span>帮助你了解面试官会如何提问你的简历</span>
                                         </li>
                                         <li className="flex items-center">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
