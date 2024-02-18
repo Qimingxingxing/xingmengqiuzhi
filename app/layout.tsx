@@ -33,7 +33,7 @@ export default function RootLayout({
             <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
         </head>
         <body
-            className={`${inter.variable} ${architects_daughter.variable} font-inter antialiased shadow-white text-black tracking-tight`}>
+            className={`${inter.variable} ${architects_daughter.variable} font-inter antialiased shadow-white text-black tracking-tight scroll-smooth`}>
         <div className="flex flex-col min-h-screen overflow-hidden">
             <Header/>
             {children}

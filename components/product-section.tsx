@@ -6,12 +6,12 @@ import FeatImage03 from '@/public/images/features-03-image-03.png'
 
 export default function ProductSection() {
     return (
-        <section>
+        <section id="product-section">
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
                 <div className="py-12 md:py-20 border-t border-gray-800">
 
                     {/* Section header */}
-                    <div className="max-w-3xl pb-12 md:pb-16">
+                    <div className="max-w-3xl pb-12 md:pb-16" data-aos="fade-up">
                         <div
                             className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Reach
                             goals that matter
@@ -39,10 +39,9 @@ export default function ProductSection() {
                                     <div className="font-architects-daughter text-xl text-purple-600 mb-2">Seek the
                                         Best
                                     </div>
-                                    <h3 className="h3 mb-3">Mock Coding Interview</h3>
-                                    <p className="text-xl text-gray-400 mb-4">Lorem ipsum dolor sit amet, consectetur
-                                        adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                                        aliqua.</p>
+                                    <h3 className="h3 mb-3">算法模拟面试：Mock Coding Interview</h3>
+                                    <p className="text-xl text-gray-400 mb-4">1轮算法模拟面试（一小时、1对1）+
+                                        30分钟面试反馈</p>
                                     <ul className="text-lg text-gray-400 -mb-2">
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -50,7 +49,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Duis aute irure dolor in reprehenderit</span>
+                                            <span>面试官均来自大厂senior级别以上</span>
                                         </li>
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -58,7 +57,15 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Excepteur sint occaecat</span>
+                                            <span>会尽量match target公司的面试官，带给你最真实的体验</span>
+                                        </li>
+                                        <li className="flex items-center mb-2">
+                                            <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                                                 viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
+                                            </svg>
+                                            <span>详细feedback会写在google doc里, 包括具体rating和面试可用于debrief的反馈</span>
                                         </li>
                                         <li className="flex items-center">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -66,7 +73,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Amet consectetur adipiscing elit</span>
+                                            <span>coderpad做题</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -89,10 +96,10 @@ export default function ProductSection() {
                                     <div className="font-architects-daughter text-xl text-purple-600 mb-2">Best quality.
                                         Less spend
                                     </div>
-                                    <h3 className="h3 mb-3">Mock System Design Interview</h3>
-                                    <p className="text-xl text-gray-400 mb-4">Lorem ipsum dolor sit amet, consectetur
-                                        adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                                        aliqua.</p>
+                                    <h3 className="h3 mb-3">后端系统设计模拟面试：Mock System Design Interview</h3>
+                                    <p className="text-xl text-gray-400 mb-4">
+                                        1轮系统设计模拟面试（一小时、1对1）+ 30分钟面试反馈
+                                    </p>
                                     <ul className="text-lg text-gray-400 -mb-2">
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -100,7 +107,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Duis aute irure dolor in reprehenderit</span>
+                                            <span>面试官均来自大厂senior级别以上</span>
                                         </li>
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -108,7 +115,15 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Excepteur sint occaecat</span>
+                                            <span>主要讨论后端系统设计，使用最常见的题目带你真实体验系统设计面试</span>
+                                        </li>
+                                        <li className="flex items-center mb-2">
+                                            <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                                                 viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
+                                            </svg>
+                                            <span>详细feedback会写在google doc里, 包括具体rating和面试可用于debrief的反馈</span>
                                         </li>
                                         <li className="flex items-center">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -116,7 +131,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Amet consectetur adipiscing elit</span>
+                                            <span>excalidraw面试</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -136,12 +151,12 @@ export default function ProductSection() {
                             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6"
                                  data-aos="fade-right">
                                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                                    <div className="font-architects-daughter text-xl text-purple-600 mb-2">Best Quality,
-                                        Affordable Price
+                                    <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                                        Good Story Matters
                                     </div>
-                                    <h3 className="h3 mb-3">Mock Behavior Question Interview</h3>
-                                    <p className="text-xl text-gray-400 mb-4">Lorem ipsum dolor sit amet, consectetur
-                                        adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                                    <h3 className="h3 mb-3">行为问题面试：Mock Behavior Question Interview</h3>
+                                    <p className="text-xl text-gray-400 mb-4">1轮行为问题面试（45分钟，1对1）+
+                                        15分钟面试反馈
                                         aliqua.</p>
                                     <ul className="text-lg text-gray-400 -mb-2">
                                         <li className="flex items-center mb-2">
@@ -186,12 +201,12 @@ export default function ProductSection() {
                             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6"
                                  data-aos="fade-left">
                                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                                    <div className="font-architects-daughter text-xl text-purple-600 mb-2">More speed.
-                                        Less spend
+                                    <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                                        Dive Deep on What You Did
                                     </div>
-                                    <h3 className="h3 mb-3">Project Deep Dive Interview</h3>
-                                    <p className="text-xl text-gray-400 mb-4">Lorem ipsum dolor sit amet, consectetur
-                                        adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                                    <h3 className="h3 mb-3">项目深入探讨面试：Project Deep Dive Interview</h3>
+                                    <p className="text-xl text-gray-400 mb-4">1轮项目深入面试（45分钟、1对1）+
+                                        15分钟面试反馈
                                         aliqua.</p>
                                     <ul className="text-lg text-gray-400 -mb-2">
                                         <li className="flex items-center mb-2">
@@ -236,13 +251,11 @@ export default function ProductSection() {
                             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6"
                                  data-aos="fade-right">
                                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                                    <div className="font-architects-daughter text-xl text-purple-600 mb-2">Best Quality,
-                                        Affordable Price
+                                    <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                                        Getting Interview is a Start Point
                                     </div>
-                                    <h3 className="h3 mb-3">Resume Revision</h3>
-                                    <p className="text-xl text-gray-400 mb-4">Lorem ipsum dolor sit amet, consectetur
-                                        adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                                        aliqua.</p>
+                                    <h3 className="h3 mb-3">简历修改：Resume Revision</h3>
+                                    <p className="text-xl text-gray-400 mb-4">1小时一对一简历修改服务</p>
                                     <ul className="text-lg text-gray-400 -mb-2">
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -250,7 +263,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Duis aute irure dolor in reprehenderit</span>
+                                            <span>多年大厂经验的工程师帮你修改简历</span>
                                         </li>
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -258,7 +271,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Excepteur sint occaecat</span>
+                                            <span>一对一，google docs实时进行修改</span>
                                         </li>
                                         <li className="flex items-center">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -266,7 +279,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Amet consectetur adipiscing elit</span>
+                                            <span>帮助你包装你的简历，并对你的经历进行包装</span>
                                         </li>
                                     </ul>
                                 </div>

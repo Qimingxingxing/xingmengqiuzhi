@@ -1,6 +1,6 @@
 export default function Services() {
     return (
-        <section>
+        <section id="services" className="scroll-smooth">
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
                 <div className="py-12 md:py-20">
                     {/* Section header */}

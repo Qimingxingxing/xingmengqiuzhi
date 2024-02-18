@@ -2,6 +2,7 @@ import Link from 'next/link'
 import MobileMenu from './mobile-menu'
 import Logo from '@/public/images/logo.png'
 import Image from 'next/image'
+import Contact from "@/app/contact/page";
 
 export default function Header() {
     return (
@@ -10,7 +11,7 @@ export default function Header() {
                 <div className="flex items-center justify-between h-20">
                     {/* Site branding */}
                     <div className="shrink-0 mr-4">
-                        <Image alt="" className="w-20 h-20 fill-current" src={Logo}  aria-label="Cruip" />
+                        <Image alt="" className="w-20 h-20 fill-current" src={Logo} aria-label="Cruip"/>
                     </div>
 
                     {/* Desktop navigation */}
@@ -19,19 +20,19 @@ export default function Header() {
                         <ul className="flex grow justify-start flex-wrap items-center">
                             <li>
                                 <Link
-                                    href="/signin"
+                                    href="/"
                                     className="font-medium text-gray-600 hover:text-gray-200 px-4 py-3 transition duration-150 ease-in-out"
                                 >
                                     首页
                                 </Link>
                                 <Link
-                                    href="/signin"
+                                    href="#product-section"
                                     className="font-medium text-gray-600 hover:text-gray-200 px-4 py-3 transition duration-150 ease-in-out"
                                 >
                                     课程
                                 </Link>
                                 <Link
-                                    href="/signin"
+                                    href="#services"
                                     className="font-medium text-gray-600 hover:text-gray-200 px-4 py-3 transition duration-150 ease-in-out"
                                 >
                                     团队
@@ -43,7 +44,7 @@ export default function Header() {
                                     服务介绍
                                 </Link>
                                 <Link
-                                    href="/signin"
+                                    href="/contact"
                                     className="font-medium text-gray-600 hover:text-gray-200 px-4 py-3 transition duration-150 ease-in-out"
                                 >
                                     联系我们
