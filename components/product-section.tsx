@@ -19,7 +19,7 @@ export default function ProductSection() {
                             goals that matter
                         </div>
                         <h1 className="h2 mb-4">我们的产品服务</h1>
-                        <p className="text-xl text-gray-600">我们致力于提供最好的面试mock服务，来帮助你拿到理想的offer</p>
+                        <p className="text-xl text-gray-600">我们致力于提供最好的面试mock服务,来帮助你拿到理想的offer</p>
                     </div>
 
                     {/* Items */}
@@ -58,7 +58,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>会尽量match target公司的面试官，带给你最真实的体验</span>
+                                            <span>会尽量match target公司的面试官,带给你最真实的体验</span>
                                         </li>
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -117,7 +117,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>主要讨论后端系统设计，使用最常见的题目带你真实体验系统设计面试</span>
+                                            <span>主要讨论后端系统设计,使用最常见的题目带你真实体验系统设计面试</span>
                                         </li>
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -157,7 +157,7 @@ export default function ProductSection() {
                                         Good Story Matters
                                     </div>
                                     <h3 className="h3 mb-3">行为问题面试：Mock Behavior Question Interview</h3>
-                                    <p className="text-xl text-gray-600 mb-4">1轮行为问题面试（45分钟，1对1）+
+                                    <p className="text-xl text-gray-600 mb-4">1轮行为问题面试（45分钟,1对1）+
                                         15分钟面试反馈
                                         aliqua.</p>
                                     <ul className="text-lg text-gray-600 -mb-2">
@@ -167,7 +167,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>面试官为大厂lead职位或者hiring manager，bar raiser</span>
+                                            <span>面试官为大厂lead职位或者hiring manager,bar raiser</span>
                                         </li>
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -175,7 +175,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>面试将会采用和大厂面试同样的提问方法，也会对具体的面试需求更改</span>
+                                            <span>面试将会采用和大厂面试同样的提问方法,也会对具体的面试需求更改</span>
                                         </li>
                                         <li className="flex items-center">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -217,7 +217,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>面试官为大厂lead职位或者hiring manager，bar raiser</span>
+                                            <span>面试官为大厂lead职位或者hiring manager,bar raiser</span>
                                         </li>
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -225,7 +225,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>面试将会采用和大厂面试同样的提问方法，也会对具体的面试需求更改</span>
+                                            <span>面试将会采用和大厂面试同样的提问方法,也会对具体的面试需求更改</span>
                                         </li>
                                         <li className="flex items-center">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -273,7 +273,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>一对一，google docs实时进行修改</span>
+                                            <span>一对一,google docs实时进行修改</span>
                                         </li>
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -289,7 +289,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>帮助你包装你的简历，并对你的经历进行包装</span>
+                                            <span>帮助你包装你的简历,并对你的经历进行包装</span>
                                         </li>
                                     </ul>
                                 </div>

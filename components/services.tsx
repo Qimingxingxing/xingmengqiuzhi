@@ -31,7 +31,7 @@ export default function Services() {
                                       strokeLinecap="square" strokeWidth="2"/>
                             </svg>
                             <h4 className="h4 mb-2">模拟真实大厂面试</h4>
-                            <p className="text-lg text-gray-400 text-center max-w-sm">所有的面试服务目的是模拟还原最真实的北美互联网公司面试，全英文面试，反馈环节为中文</p>
+                            <p className="text-lg text-gray-400 text-center max-w-sm">所有的面试服务目的是模拟还原最真实的北美互联网公司面试,全英文面试,反馈环节为中文</p>
                         </div>
 
                         {/* 2nd item */}
@@ -47,7 +47,7 @@ export default function Services() {
                                 </g>
                             </svg>
                             <h4 className="h4 mb-2">大厂面试官1对1模拟</h4>
-                            <p className="text-lg text-gray-400 text-center max-w-sm">我们所有的面试官都来自大厂或有过大厂的工作经历，有过丰富的担任面试官的经验</p>
+                            <p className="text-lg text-gray-400 text-center max-w-sm">我们所有的面试官都来自大厂或有过大厂的工作经历,有过丰富的担任面试官的经验</p>
                         </div>
 
                         {/* 3rd item */}
@@ -64,7 +64,7 @@ export default function Services() {
                                 </g>
                             </svg>
                             <h4 className="h4 mb-2">使用最高频的面试问题</h4>
-                            <p className="text-lg text-gray-400 text-center max-w-sm">我们将会选用最高频的面试问题来面试，也会根据学员即将面试的公司进行合适的调整</p>
+                            <p className="text-lg text-gray-400 text-center max-w-sm">我们将会选用最高频的面试问题来面试,也会根据学员即将面试的公司进行合适的调整</p>
                         </div>
 
                         {/* 4th item */}
@@ -79,7 +79,7 @@ export default function Services() {
                                 </g>
                             </svg>
                             <h4 className="h4 mb-2">全面地分析面试的反馈</h4>
-                            <p className="text-lg text-gray-400 text-center max-w-sm">反馈将会和在正是面试后写的feedback一样的模式，面试的feedback可用于之后的debrief</p>
+                            <p className="text-lg text-gray-400 text-center max-w-sm">反馈将会和在正是面试后写的feedback一样的模式,面试的feedback可用于之后的debrief</p>
                         </div>
                     </div>
                 </div>
