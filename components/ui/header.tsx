@@ -32,7 +32,7 @@ export default function Header() {
                                     课程
                                 </Link>
                                 <Link
-                                    href="#services"
+                                    href="#teachers"
                                     className="font-medium text-gray-600 hover:text-gray-400 px-4 py-3 transition duration-150 ease-in-out"
                                 >
                                     团队
