@@ -2,7 +2,6 @@ import Link from 'next/link'
 import MobileMenu from './mobile-menu'
 import Logo from '@/public/images/logo.png'
 import Image from 'next/image'
-import Contact from "@/app/contact/page";
 
 export default function Header() {
     return (

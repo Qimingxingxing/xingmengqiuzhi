@@ -79,7 +79,7 @@ export default function Services() {
                                 </g>
                             </svg>
                             <h4 className="h4 mb-2">全面地分析面试的反馈</h4>
-                            <p className="text-lg text-gray-400 text-center max-w-sm">反馈将会和在正是面试后写的feedback一样的模式，由面试官书写feedback</p>
+                            <p className="text-lg text-gray-400 text-center max-w-sm">反馈将会和在正是面试后写的feedback一样的模式，面试的feedback可用于之后的debrief</p>
                         </div>
                     </div>
                 </div>
