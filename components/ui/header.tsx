@@ -38,10 +38,10 @@ export default function Header() {
                                     团队
                                 </Link>
                                 <Link
-                                    href="/signin"
+                                    href="/"
                                     className="font-medium text-gray-600 hover:text-gray-400 px-4 py-3 transition duration-150 ease-in-out"
                                 >
-                                    服务介绍
+                                    常见问题
                                 </Link>
                                 <Link
                                     href="/contact"

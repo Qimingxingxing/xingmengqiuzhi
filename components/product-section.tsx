@@ -167,7 +167,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Duis aute irure dolor in reprehenderit</span>
+                                            <span>面试官为大厂lead职位或者hiring manager，bar raiser</span>
                                         </li>
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -175,7 +175,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Excepteur sint occaecat</span>
+                                            <span>面试将会采用和大厂面试同样的提问方法，也会对具体的面试需求更改</span>
                                         </li>
                                         <li className="flex items-center">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -183,7 +183,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Amet consectetur adipiscing elit</span>
+                                            <span>详细feedback会写在google doc里, 包括具体rating和面试可用于debrief的反馈</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -217,7 +217,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Duis aute irure dolor in reprehenderit</span>
+                                            <span>面试官为大厂lead职位或者hiring manager，bar raiser</span>
                                         </li>
                                         <li className="flex items-center mb-2">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -225,7 +225,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Excepteur sint occaecat</span>
+                                            <span>面试将会采用和大厂面试同样的提问方法，也会对具体的面试需求更改</span>
                                         </li>
                                         <li className="flex items-center">
                                             <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
@@ -233,7 +233,7 @@ export default function ProductSection() {
                                                 <path
                                                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z"/>
                                             </svg>
-                                            <span>Amet consectetur adipiscing elit</span>
+                                            <span>详细feedback会写在google doc里, 包括具体rating和面试可用于debrief的反馈</span>
                                         </li>
                                     </ul>
                                 </div>

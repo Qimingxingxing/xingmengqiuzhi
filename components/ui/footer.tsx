@@ -120,10 +120,8 @@ export default function Footer() {
 
                     </div>
 
-                    {/* Bottom area */}
-                    <div className="md:flex md:items-center md:justify-between">
-                        {/* Copyrights note */}
-                        <div className="text-gray-400 text-sm mr-4">&copy; Xingmengqiuzhi.com. All rights reserved.</div>
+                    <div className="md:flex md:justify-center">
+                        <div className="text-gray-400 text-sm">&copy; xingmengqiuzhi.com. All rights reserved.</div>
                     </div>
 
                 </div>
