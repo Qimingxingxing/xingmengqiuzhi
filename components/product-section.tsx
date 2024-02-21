@@ -34,7 +34,7 @@ export default function ProductSection() {
                                 <Image className="h-auto" src={Coding} width={600} height={405} alt="Features 01"/>
                             </div>
                             {/* Content */}
-                            <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6"
+                            <div id="algorithm" className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6"
                                  data-aos="fade-right">
                                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                                     <div className="font-architects-daughter text-xl text-purple-600 mb-2">Seek the
@@ -82,7 +82,7 @@ export default function ProductSection() {
                         </div>
 
                         {/* 2nd item */}
-                        <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+                        <div id="systemdesign" className="md:grid md:grid-cols-12 md:gap-6 items-center">
                             {/* Image */}
                             <div
                                 className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl"
@@ -141,7 +141,7 @@ export default function ProductSection() {
                         </div>
 
                         {/* 3rd item */}
-                        <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+                        <div id="behaviorquestion" className="md:grid md:grid-cols-12 md:gap-6 items-center">
                             {/* Image */}
                             <div
                                 className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1"
@@ -191,7 +191,7 @@ export default function ProductSection() {
                         </div>
 
                         {/* 4th item */}
-                        <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+                        <div id="deepdive" className="md:grid md:grid-cols-12 md:gap-6 items-center">
                             {/* Image */}
                             <div
                                 className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl"
@@ -241,7 +241,7 @@ export default function ProductSection() {
                         </div>
 
                         {/* 5th item */}
-                        <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+                        <div id="resumerevision" className="md:grid md:grid-cols-12 md:gap-6 items-center">
                             {/* Image */}
                             <div
                                 className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1"
